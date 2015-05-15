@@ -5072,6 +5072,9 @@
     <public type="style" name="Theme.BabelPhotoView" id="0x7f0d0198" />
     <public type="style" name="CircleBrowserTheme.Default" id="0x7f0d0199" />
     <public type="style" name="CircleBrowserTheme" id="0x7f0d019a" />
+    <public type="style" name="TextAppearance.Medium" id="0x7f0d019b" />
+    <public type="style" name="TextAppearance.Small" id="0x7f0d019c" />
+    <public type="style" name="Themeable.Hangouts" id="0x7f0d019d" />
     <public type="style" name="Base.V11.Theme.AppCompat" id="0x7f0d00fa" />
     <public type="style" name="Base.V11.Theme.AppCompat.Light" id="0x7f0d00fb" />
     <public type="style" name="Base.V11.Theme.AppCompat.Dialog" id="0x7f0d00fc" />
@@ -5663,6 +5666,41 @@
     <public type="color" name="action_bar_tab_text" id="0x7f0e0240" />
     <public type="color" name="common_signin_btn_text_dark" id="0x7f0e0241" />
     <public type="color" name="common_signin_btn_text_light" id="0x7f0e0242" />
+    <public type="color" name="send_from_text_color" id="0x7f0e0243" />
+    <public type="color" name="primary_text_color" id="0x7f0e0244" />
+    <public type="color" name="account_list_background_color" id="0x7f0e0245" />
+    <public type="color" name="action_sheet_background_color" id="0x7f0e0246" />
+    <public type="color" name="separator_background_color" id="0x7f0e0247" />
+    <public type="color" name="audience_view_background_color" id="0x7f0e0248" />
+    <public type="color" name="audience_view_text_color" id="0x7f0e0249" />
+    <public type="color" name="call_contact_text_color" id="0x7f0e024a" />
+    <public type="color" name="call_contact_background_color" id="0x7f0e024b" />
+    <public type="color" name="make_phone_call_background_color" id="0x7f0e024c" />
+    <public type="color" name="phone_list_title_text_color" id="0x7f0e024d" />
+    <public type="color" name="phone_list_background_color" id="0x7f0e024e" />
+    <public type="color" name="selected_tab_background_color" id="0x7f0e024f" />
+    <public type="color" name="compose_message_text_color" id="0x7f0e0250" />
+    <public type="color" name="contact_detail_text_color" id="0x7f0e0251" />
+    <public type="color" name="contact_detail_background_color" id="0x7f0e0252" />
+    <public type="color" name="conversation_subject_background_color" id="0x7f0e0253" />
+    <public type="color" name="resend_buttons_background_color" id="0x7f0e0254" />
+    <public type="color" name="content_background_color" id="0x7f0e0255" />
+    <public type="color" name="conversation_debug_background_color" id="0x7f0e0256" />
+    <public type="color" name="divider_background_color" id="0x7f0e0257" />
+    <public type="color" name="country_text_color" id="0x7f0e0258" />
+    <public type="color" name="hidden_contacts_background_color" id="0x7f0e0259" />
+    <public type="color" name="hidden_name_background_color" id="0x7f0e025a" />
+    <public type="color" name="invitation_name_text_color" id="0x7f0e025b" />
+    <public type="color" name="invitation_conversation_background_color" id="0x7f0e025c" />
+    <public type="color" name="navigation_drawer_background_color" id="0x7f0e025d" />
+    <public type="color" name="secondary_text_color" id="0x7f0e025e" />
+    <public type="color" name="status_button_text_color" id="0x7f0e025f" />
+    <public type="color" name="sticker_album_background_color" id="0x7f0e0260" />
+    <public type="color" name="sticker_grid_background_color" id="0x7f0e0261" />
+    <public type="color" name="widget_account_background_color" id="0x7f0e0262" />
+    <public type="color" name="widget_header_background_color" id="0x7f0e0263" />
+    <public type="color" name="widget_unread_text_color" id="0x7f0e0264" />
+    <public type="color" name="chat_message_text_color" id="0x7f0e0265" />
     <public type="bool" name="last_seen_default" id="0x7f0f0000" />
     <public type="bool" name="force_thumbnail_no_scaling" id="0x7f0f0001" />
     <public type="bool" name="abc_action_bar_embed_tabs" id="0x7f0f0002" />
